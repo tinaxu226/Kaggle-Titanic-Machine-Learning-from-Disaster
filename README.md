@@ -27,6 +27,7 @@ Evaluate the model with confusion table
 
 ### Valuation of the Analysis
 Make predictions with test data
-Output the results to Kaggle
+
+### Output the results to Kaggle
 
 Competition Website: http://www.kaggle.com/c/titanic-gettingStarted
